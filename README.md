@@ -17,6 +17,28 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="twitter" height="22px" width="22px" />
   </a>
 </p>
+<p align="center">
+  <a href="#">
+    <img src="svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+  </a> 
+    <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+    <a href="#">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
+</p>
 
 I'm a developer who likes to work with Python/C++ (FAST API, Flask, Aiogram 2/3, Playwright) Java, Python among others. 
 
@@ -39,13 +61,4 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 * Nutrition
 * Nature
 
-<br />
-<a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
-  <table align="right">
-      <tr>
-          <td>
-            👉 &nbsp;&nbsp;Subscribe to the newsletter
-          </td>
-      </tr>
-  </table>
-</a>
+
