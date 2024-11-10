@@ -1,9 +1,9 @@
 # Hi, I'm Whatz
 
 <div align="right">
-  <a href="https://aralroca.com/donate">
+<!--   <a href="https://aralroca.com/donate">
     <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
-  </a>
+  </a> -->
 </div>
 
 <p align="center">
@@ -21,9 +21,9 @@
 I'm a developer who likes to work with Python/C++ (FAST API, Flask, Aiogram 2/3, Playwright) Java, Python among others. 
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatzwastaken&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
-  <small>Languages used in my public repos - big fan of ASM 😛</small>
+  <small>Languages used in my public repos - big fan of Python 😛</small>
   <br />
   <br />
 </div>
