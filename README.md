@@ -18,7 +18,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="#">
+<!--   <a href="#">
     <img src="svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
   </a> 
     <a href="#">
@@ -37,7 +37,7 @@
 
   <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>   -->
 </p>
 
 I'm a developer who likes to work with Python/C++ (FAST API, Flask, Aiogram 2/3, Playwright) Java, Python among others. 
